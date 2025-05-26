@@ -4,15 +4,17 @@ const config = {
 	noIndex: false,
 	title: 'Project Name Docs',
 	tagline: 'Project Name  Docs',
-	baseUrl: '/template',
-	url: 'https://docs.dhtmlx.com',
+
+	url: 'https://bill-muller.github.io',
+  	baseUrl: '/doc-template/',
+
 	onBrokenLinks: 'warn',
 	onBrokenMarkdownLinks: 'warn',
     onBrokenAnchors: 'warn',
 	favicon: 'img/favicon.ico',
 	organizationName: 'Project Name', // Usually your GitHub org/user name.
 	projectName: 'doc-template', // Usually your repo name.
-	trailingSlash: true,
+	trailingSlash: false,
 	
 	stylesheets: [
 		{ href:'https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css' },
