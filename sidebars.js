@@ -511,12 +511,12 @@ module.exports = {
                 // СНГ
                 {
                     type: "category",
-                    label: "СНГ",
+                    label: "СНД",
                     collapsible: true,
                     collapsed: true,
                     link: {
                         type: "generated-index",
-                        title: "СНГ",
+                        title: "СНД",
                         keywords: ['sng'],
                         image: "/img/docusaurus.png"
                     },
