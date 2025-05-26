@@ -1,9 +1,9 @@
 ---
-sidebar_label: Khipy
+sidebar_label: Khipu
 title: Khipy
-description: 'Опис для розділу "Khipy"' 
+description: 'Опис для розділу "Khipu"' 
 ---
 
-# Khipy
+# Khipu
 
 ...
