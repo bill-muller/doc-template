@@ -511,7 +511,7 @@ module.exports = {
                 // СНГ
                 {
                     type: "category",
-                    label: "СНГ",
+                    label: "СНД",
                     collapsible: true,
                     collapsed: true,
                     link: {
